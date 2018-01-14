@@ -1,0 +1,29 @@
+{
+  "name": "lunatic-core",
+  "version": "1.0.0",
+  "description": "Core library file for RPGMakerMV game development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoAR/Lunatic-Core.git"
+  },
+  "keywords": [
+    "rpgmaker",
+    "rpgmakermv",
+    "rmmv",
+    "lunatic",
+    "lunatic",
+    "server",
+    "javascript",
+    "js"
+  ],
+  "author": "Kino R <Kinorose@gmail.com> (http://endlessillusoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KinoAR/Lunatic-Core/issues"
+  },
+  "homepage": "https://github.com/KinoAR/Lunatic-Core#readme"
+}
