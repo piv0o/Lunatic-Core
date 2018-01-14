@@ -1,16 +1,5 @@
 /*
-* @author Kino, Pivoo, DaedraKayne
-* @plugindesc LunaticCore plugin file.
-*
-*
-* @help
-* Test
-* version 0.0.1
-*
-*
-*/
-/*
-* @author Kino, Pivoo, DaedraKayne
+* @author Kino, Pivoo, DaedraKayne, waynee
 * @plugindesc LunaticCore plugin file.
 *
 *

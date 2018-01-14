@@ -1,5 +1,5 @@
 /*
-* @author Kino, Pivoo, DaedraKayne
+* @author Kino, Pivoo, DaedraKayne, waynee
 * @plugindesc LunaticCore plugin file.
 *
 *
