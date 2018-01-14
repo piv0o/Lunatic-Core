@@ -1,3 +1,5 @@
 [
-  "js/plugins_dev/header.js"
+  "js/plugins_dev/header.js",
+  "js/plugins_dev/constants.js",
+  "js/plugins_dev/lambda.js"
 ]
